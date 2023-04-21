@@ -6,12 +6,6 @@
     "phone": "(992) 914-3792"
   },
   {
-    "id": "qdggE76Jtbfd9eWJHrssH",
-    "name": "Chaim Lewis",
-    "email": "dui.in@egetlacus.ca",
-    "phone": "(294) 840-6685"
-  },
-  {
     "id": "drsAJ4SHPYqZeG-83QTVW",
     "name": "Kennedy Lane",
     "email": "mattis.Cras@nonenimMauris.net",
@@ -84,9 +78,15 @@
     "id": "YQwS486tfLMrAa2pRlqj3"
   },
   {
-    "name": "Slava Koshmal",
-    "email": "Slava98@ukr.net",
+    "name": "Dasha Koshmal",
+    "email": "Olya98@ukr.net",
     "phone": "(096) 795-4422",
-    "id": "7IS9suw2qFrthAk4IzABC"
+    "id": "Qd424x2x6cHfYLUTrOCmV"
+  },
+  {
+    "name": "Mango",
+    "email": "mango@gmail.com",
+    "phone": "322-22-22",
+    "id": "iag0CdxW-c9nnML-U5lyB"
   }
 ]
